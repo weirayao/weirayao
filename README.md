@@ -8,3 +8,5 @@
 <p align="center">
 I'm Weiran! I'm a Researcher at CMU. I work on bridging causality and deep learning for trustworthy AI. I'm also one of the co-founders of <b>TraffiQure</b>, a CMU AI/ML spinoff for curing traffic pains with machine learning solutions. 
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=weirayao&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
