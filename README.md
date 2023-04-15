@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-I'm Weiran! I'm an AI Research Scientist at Salesforce and a PhD student at CMU. In my recent years, I'm trying really hard to bridge the gap between causality and deep learning! I'm also a co-founder of <b>TraffiQure</b>, a CMU AI/ML spinoff for curing traffic pains with machine learning solutions. 
+I'm Weiran! I'm a Research Scientist at Salesforce AI and a PhD student at CMU. In my recent years, I'm trying really hard to bridge the gap between causality and deep learning! I'm also a co-founder of <b>TraffiQure</b>, a CMU AI/ML spinoff for curing traffic pains with machine learning solutions. 
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=weirayao&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
