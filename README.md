@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-I'm Weiran! I'm a Research Scientist at Salesforce AI and a PhD student at CMU. I'm a co-founder of <b>TraffiQure</b>, a CMU AI/ML spinoff for curing traffic pains with machine learning solutions. 
+I'm Weiran! I'm a Research Scientist working on Large Language Agents at Salesforce AI. I got my PhD degree from CMU. I'm a co-founder of <b>TraffiQure</b>, a CMU AI/ML spinoff for curing traffic pains with machine learning solutions. 
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=weirayao&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
