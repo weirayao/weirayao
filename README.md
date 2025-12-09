@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-I'm Weiran! I'm a Research Scientist working on Large Language Agents at Salesforce AI. I got my PhD degree from CMU. I'm a co-founder of <b>TraffiQure</b>, a CMU AI/ML spinoff for curing traffic pains with machine learning solutions. 
+I'm Weiran! I'm a Research Scientist working on AI Agent OS for Healthcare AI.
 </p>
 
 ![](https://komarev.com/ghpvc/?username=weirayao&color=brightgreen)
