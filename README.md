@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-I'm Weiran! I'm a Research Scientist working on AI Agent OS for Healthcare AI.
+I'm Weiran! I'm a Research Scientist working on agentic computing cloud for verticals.
 </p>
 
 ![](https://komarev.com/ghpvc/?username=weirayao&color=brightgreen)
